@@ -6,5 +6,21 @@
     "favoriteEmoji": "🚀",
     "message": "はじめてのOSS貢献！",
     "joinedAt": "2026-04-24"
+  }  ,
+
+  {
+
+    "name": "あなたの名前",
+
+    "github": "your-github-handle",
+
+    "favoriteColor": "#FF5E5B",
+
+    "favoriteEmoji": "🦊",
+
+    "message": "よろしくです！",
+
+    "joinedAt": "2026-04-24"
+
   }
 ]
